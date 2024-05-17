@@ -71,7 +71,7 @@ class Album {
             $personen[] = $persoon;
         }
 
-        // Retourneer array met personen
+        // Retourneer array met albums
         return $personen;
     }
 
